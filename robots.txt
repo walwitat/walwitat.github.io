@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://walwitat.github.io/sitemap
+Sitemap: https://walwitat.github.io/app/sitemap
+Sitemap: https://walwitat.github.io/assets/sitemap
+Sitemap: https://walwitat.github.io/css/sitemap
+Sitemap: https://walwitat.github.io/includes/sitemap
+Sitemap: https://walwitat.github.io/item/sitemap
+Sitemap: https://walwitat.github.io/src/sitemap
